@@ -1,0 +1,6 @@
+C:\Users\Marek\source\repos\proj\bin\Release\net8.0\publish\proj.exe
+C:\Users\Marek\source\repos\proj\bin\Release\net8.0\publish\proj.dll
+C:\Users\Marek\source\repos\proj\bin\Release\net8.0\publish\proj.deps.json
+C:\Users\Marek\source\repos\proj\bin\Release\net8.0\publish\proj.runtimeconfig.json
+C:\Users\Marek\source\repos\proj\bin\Release\net8.0\publish\proj.pdb
+C:\Users\Marek\source\repos\proj\bin\Release\net8.0\publish\RestMockCore.dll

@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "proj/1.0.0": {
+        "dependencies": {
+          "rest-mock-core": "0.7.12"
+        },
+        "runtime": {
+          "proj.dll": {}
+        }
+      },
+      "rest-mock-core/0.7.12": {
+        "runtime": {
+          "lib/net6.0/RestMockCore.dll": {
+            "assemblyVersion": "0.7.0.0",
+            "fileVersion": "0.7.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "proj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "rest-mock-core/0.7.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LZ3PmTfRodR/En9dXeLxvWvq+vti7nV/QIgEGfo2znQhczTVbhpVbin4n8ETml4utmpVbGf1mzn6n5F1fs0krw==",
+      "path": "rest-mock-core/0.7.12",
+      "hashPath": "rest-mock-core.0.7.12.nupkg.sha512"
+    }
+  }
+}

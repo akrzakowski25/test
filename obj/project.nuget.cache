@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2W5CcuJLBWlLE9CK5KRaYCIinh/zI75Q976lgYfGEWIkL4/oRjY5rvDofYXmwhe91M75lLS23ym3fTIlmM6RNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marek\\source\\repos\\proj\\proj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marek\\.nuget\\packages\\rest-mock-core\\0.7.12\\rest-mock-core.0.7.12.nupkg.sha512"
+  ],
+  "logs": []
+}
